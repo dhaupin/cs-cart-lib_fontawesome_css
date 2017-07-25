@@ -1,0 +1,32 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::lib_fontawesome_css"
+msgid "Library - Fontawesome Icons"
+msgstr "Library - Fontawesome Icons"
+
+msgctxt "Addons::description::lib_fontawesome_css"
+msgid "DEPENDENCY ADDON: Adds the Fontawesome Icon library for other addons to use. <a href=\"http://fontawesome.io/icons\" target=\"_blank\">More Info</a>."
+msgstr "DEPENDENCY ADDON: Adds the Fontawesome Icon library for other addons to use. <a href=\"http://fontawesome.io/icons\" target=\"_blank\">More Info</a>."
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_fontawesome_css::addon_general"
+msgid "General Settings"
+msgstr "General Settings"
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_fontawesome_css::addon_tools"
+msgid "Addon Tools"
+msgstr "Addon Tools"
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_fontawesome_css::fontawesome_enable"
+msgid "Enable Addon?"
+msgstr "Enable Addon?"
+
+msgctxt "SettingsTooltips::lib_fontawesome_css::fontawesome_enable"
+msgid "Allows you to enable/disable this addon on a per-store basis."
+msgstr "Allows you to enable/disable this addon on a per-store basis."
